@@ -7,3 +7,4 @@ older pages and photos.
 * Day 1: [Arrival in Reykjavik](2025-06-29-arrival-in-reykjavik/)
 * Day 2: [Hiking in Reykjadalur](2025-06-30-reykjadalur-and-djupagilsfoss/)
 * Day 3: [Departure](2025-07-01-departure/)
+* Day 4: [Isafjordur](2025-07-02-isafjordur/)
