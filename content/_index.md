@@ -4,7 +4,7 @@ I'll try to post some short notes on the day, along with a link to a Google
 Photos album with a few pictures. As I have time and energy, I'll update the
 older pages and photos.
 
-* Day 1: [Arrival in Reykjavik](2025-06-29-arrival-in-reykjavik/)
-* Day 2: [Hiking in Reykjadalur](2025-06-30-reykjadalur-and-djupagilsfoss/)
-* Day 3: [Departure](2025-07-01-departure/)
-* Day 4: [Isafjordur](2025-07-02-isafjordur/)
+* June 29: [Arrival in Reykjavik](2025-06-29-arrival-in-reykjavik/)
+* June 30: [Hiking in Reykjadalur](2025-06-30-reykjadalur-and-djupagilsfoss/)
+* July 1: [Departure](2025-07-01-departure/)
+* July 2: [Isafjordur](2025-07-02-isafjordur/)
