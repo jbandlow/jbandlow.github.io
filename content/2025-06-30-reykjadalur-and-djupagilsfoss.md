@@ -14,10 +14,10 @@ sorted, we left around 11:30 for
 [Hveragerdi](https://www.google.com/maps/place/Hverager%C3%B0i,+Iceland/). It
 was an easy 45 minute drive on the ring road, and we parked at the cafe at the
 trailhead. The countryside was classic Iceland. On the ride home, Jessica mused
-"I wonder if Icelandic has a specific word for 'moss-covered' rockscape."
-"Home?," I speculated. "You can work out which meaning from the context."
-Silly, but it's striking to realize how these alien landscapes are simply
-normal reality for people here.
+"I wonder if Icelandic has a specific word for 'moss-covered rockscape'."
+"Home?," I jokingly speculated. "You can work out which meaning from the
+context." Silly, but it's striking to realize how these alien landscapes are
+simply normal reality for people here.
 
 It was a fairly crowded hike, and somewhat steep to start. We took about an
 hour to get up to the thermal pools. This was essentially just a section of
