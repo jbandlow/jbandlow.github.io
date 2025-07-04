@@ -8,3 +8,4 @@ older pages and photos.
 * June 30: [Hiking in Reykjadalur](2025-06-30-reykjadalur-and-djupagilsfoss/)
 * July 1: [Departure](2025-07-01-departure/)
 * July 2: [Isafjordur](2025-07-02-isafjordur/)
+* July 3: [Jan Mayen](2025-07-03-jan-mayen/)
