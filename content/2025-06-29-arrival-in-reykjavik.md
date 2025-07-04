@@ -1,6 +1,6 @@
 +++
 date = '2025-07-03T22:40:05-07:00'
-draft = true
+draft = false
 title = '2025-06-29 Arrival in Reykjavik'
 +++
 Awoke on Saturday the 28th to a message that our flight was delayed, from
