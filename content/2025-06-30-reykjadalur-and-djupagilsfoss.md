@@ -8,20 +8,21 @@ an open buffet of bread, sliced meats, smoked salmon, salad, yoghurts, etc.,
 with an included carafe of coffee. Given Icelandic prices, we could easily have
 had the equivalent of a $100 meal.
 
-After making our plans and getting sorted, we left around 11:30 for Hveragerdi.
-It was an easy 45 minute drive on the ring road, and we parked at the cafe at
-the trailhead. The countryside was classic Iceland. On the ride home, Jessica
-mused "I wonder if Icelandic has a specific word for 'moss-covered' rockscape."
-"Home?," I speculated. "You can work out which meaning from the context."
-Silly, but it's striking to realize how these alien landscapes are simply
-normal reality for people here.
+After some discussion, we decided our plan for the day was the [Reykjadalur Hot
+Springs Hike](https://siggadottir.com/reykjadalur-hot-springs/). After getting
+sorted, we left around 11:30 for Hveragerdi. It was an easy 45 minute drive on
+the ring road, and we parked at the cafe at the trailhead. The countryside was
+classic Iceland. On the ride home, Jessica mused "I wonder if Icelandic has a
+specific word for 'moss-covered' rockscape." "Home?," I speculated. "You can
+work out which meaning from the context." Silly, but it's striking to realize
+how these alien landscapes are simply normal reality for people here.
 
 It was a fairly crowded hike, and somewhat steep to start. We took about an
 hour to get up to the thermal pools. This was essentially just a section of
-stream with furniture on the shore for changing, and various pools and shallows
-for sitting and soaking. You could choose the temperature through a fairly wide
-range, simply by walking upstream for hotter water. At the high point, it was
-essentially too hot to spend any time.
+stream with some simple wooden panels on the shore for changing (no doors), and
+various pools and shallows for sitting and soaking. You could choose the
+temperature through a fairly wide range, simply by walking upstream for hotter
+water. At the high point, it was essentially too hot to spend any time.
 
 We **almost** turned around after getting out, but decided to head up the hill
 another 30 minutes or so. Of course, we immediately found an extraordinary
