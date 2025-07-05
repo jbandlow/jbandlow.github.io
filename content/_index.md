@@ -9,3 +9,4 @@ older pages and photos.
 * July 1: [Departure](2025-07-01-departure/)
 * July 2: [Isafjordur](2025-07-02-isafjordur/)
 * July 3: [Jan Mayen](2025-07-03-jan-mayen/)
+* July 4: [At Sea](2025-07-04-at-sea/)
