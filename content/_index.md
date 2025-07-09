@@ -13,3 +13,4 @@ older pages and photos.
 * July 5: [Longyearbyen](2025-07-05-longyearbyen/)
 * July 6: [Longyearbyen](2025-07-06-longyearbyen/)
 * July 7: [At Sea](2025-07-07-at-sea/)
+* July 8: [At Sea](2025-07-08-honningsvag/)
