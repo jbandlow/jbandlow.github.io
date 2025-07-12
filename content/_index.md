@@ -16,3 +16,4 @@ older pages and photos.
 * July 8: [Honningsväg](2025-07-08-honningsvag/)
 * July 9: [Tromsö](2025-07-09-tromso/)
 * July 10: [Narvik](2025-07-10-narvik/)
+* July 11: [Lofoten](2025-07-11-lofoten/)
