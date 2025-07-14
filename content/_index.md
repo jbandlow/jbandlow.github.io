@@ -17,4 +17,5 @@ older pages and photos.
 * July 9: [Tromsö](2025-07-09-tromso/)
 * July 10: [Narvik](2025-07-10-narvik/)
 * July 11: [Lofoten](2025-07-11-lofoten/)
-* July 12: [At Sea](2025-07-11-at-sea/)
+* July 12: [At Sea](2025-07-12-at-sea/)
+* July 13: [Eidsdal](2025-07-13-eidsdal/)
