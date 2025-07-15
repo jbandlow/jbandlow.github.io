@@ -19,3 +19,4 @@ older pages and photos.
 * July 11: [Lofoten](2025-07-11-lofoten/)
 * July 12: [At Sea](2025-07-12-at-sea/)
 * July 13: [Eidsdal](2025-07-13-eidsdal/)
+* July 14: [Bergen](2025-07-14-bergen/)
