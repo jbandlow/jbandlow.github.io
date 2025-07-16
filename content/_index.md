@@ -20,3 +20,4 @@ older pages and photos.
 * July 12: [At Sea](2025-07-12-at-sea/)
 * July 13: [Eidsdal](2025-07-13-eidsdal/)
 * July 14: [Bergen](2025-07-14-bergen/)
+* July 15: [Bergen to Oslo](2025-07-15-bergen-oslo/)
