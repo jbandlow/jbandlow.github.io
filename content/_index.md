@@ -21,3 +21,4 @@ older pages and photos.
 * July 13: [Eidsdal](2025-07-13-eidsdal/)
 * July 14: [Bergen](2025-07-14-bergen/)
 * July 15: [Bergen to Oslo](2025-07-15-bergen-oslo/)
+* July 16: [Oslo - Fram Museum](2025-07-16-oslo-fram/)
