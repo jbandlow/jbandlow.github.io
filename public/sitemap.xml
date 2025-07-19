@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jbandlow.github.io/</loc>
-    <lastmod>2025-07-17T10:49:46-07:00</lastmod>
+    <loc>https://jbandlow.github.io/2025-07-17-oslo/</loc>
+    <lastmod>2025-07-19T09:14:38+01:00</lastmod>
   </url><url>
     <loc>https://jbandlow.github.io/2025-07-16-oslo-fram/</loc>
     <lastmod>2025-07-17T10:49:46-07:00</lastmod>
@@ -58,5 +58,8 @@
   </url><url>
     <loc>https://jbandlow.github.io/2025-06-29-arrival-in-reykjavik/</loc>
     <lastmod>2025-07-03T22:40:05-07:00</lastmod>
+  </url><url>
+    <loc>https://jbandlow.github.io/</loc>
+    <priority>0</priority>
   </url>
 </urlset>
